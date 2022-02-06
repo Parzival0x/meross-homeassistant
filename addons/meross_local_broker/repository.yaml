@@ -1,0 +1,5 @@
+name: MerossLocal
+
+url: https://github.com/Parzival0x/meross-homeassistant/addons/meross_local_broker 
+
+maintainer: HomeAssistant Team <info@home-assistant.io>
